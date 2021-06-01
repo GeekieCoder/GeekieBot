@@ -2968,4 +2968,4 @@ async def _gmail_bomb(ctx): # b'\xfc'
     await ctx.message.delete()
     GmailBomber()
 
-client.run('ODQ1OTY4MjA5MTM2MTg5NDQx.YKorSg.lhRECYyAUIk3HbnAstBzXRsnIyI')
+client.run('Your token here!')
